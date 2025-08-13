@@ -60,4 +60,4 @@ ReNPT3 - это продолжение идей и философии [ReNPTrasl
 - Предложение новых идей или при нахождении проблем сообщайте о них через [Issues](https://github.com/DenisSolicen/ReNPT/issues).
 - Связаться с создателем проекта можете по контактам в [профиле](https://github.com/DenisSolicen).
 
-Проект `ReNPTranslator 3` создан основателем - [Денисом Солиценом](https://github.com/DenisSolicen).
+Проект `ReNPTranslator 3` создан - [Денисом Солиценом](https://github.com/DenisSolicen).
